@@ -1,6 +1,8 @@
-![img](https://github.com/Akash-Chandrashekar24/Phonepe_Pulse_Data_Visualization_and_Exploration./assets/121113381/f4220fcb-0cb2-4c0d-8c92-7413edbcced1)
+![img](https://github.com/Akash-Chandrashekar24/Phonepe_Pulse_Data_Visualization_and_Exploration./assets/121113381/5c80b4d0-c39e-4df0-9c66-70743d42c221)
+
 
 # Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
+
 
 # What is PhonePe Pulse?
   The [PhonePe Pulse website](https://www.phonepe.com/pulse/explore/transaction/2022/4/) showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits.
